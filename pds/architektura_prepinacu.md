@@ -23,7 +23,7 @@
 - sítě.
 - Zkoušel: Švéda
 - Známka: C
-Komentář: nakreslil sem zakladni schema prepinace a rekl jak jde paket od vstupniho rozhrani k vystupnimu, ptal se jestli se pakety blokuji, rikam ze podle algoritmu planovani a pak chtel slyset slovicko virtualni fronty, pak sem rek ze propojovaci deska muze byt sdilena sbernice, nebo X-bar nebo vícestupnové (Clos nebo Benes), na to rek at si vyberu close nebo benese a popisu, tak sem popsal close (m,n,r)- co to znamena, podminka neblokace (m>=2n-1) a konec. Znamka C
+- Komentář: nakreslil sem zakladni schema prepinace a rekl jak jde paket od vstupniho rozhrani k vystupnimu, ptal se jestli se pakety blokuji, rikam ze podle algoritmu planovani a pak chtel slyset slovicko virtualni fronty, pak sem rek ze propojovaci deska muze byt sdilena sbernice, nebo X-bar nebo vícestupnové (Clos nebo Benes), na to rek at si vyberu close nebo benese a popisu, tak sem popsal close (m,n,r)- co to znamena, podminka neblokace (m>=2n-1) a konec. Znamka C
 
 ----------------------------------------
 
