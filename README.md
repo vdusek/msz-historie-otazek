@@ -1,9 +1,15 @@
 ## MSZ historie otázek
 
-```
-Rok:
-Otázka:
-Zkoušel:
-Známka:
+### Šablona
 
+```
+----------------------------------------
+
+- Rok:
+- Otázka:
+- Zkoušel:
+- Známka:
+- Komentář:
+
+----------------------------------------
 ```
