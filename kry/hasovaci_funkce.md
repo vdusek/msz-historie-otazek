@@ -1,4 +1,4 @@
-## Hašovací funkce, klíčovaný haš a MAC a jejich použití a vlastnosti.
+### Hašovací funkce, klíčovaný haš a MAC a jejich použití a vlastnosti.
 
 ----------------------------------------
 

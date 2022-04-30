@@ -1,4 +1,4 @@
-## Správa klíčů v~asymetrické kryptografii (certifikáty X.509).
+### Správa klíčů v~asymetrické kryptografii (certifikáty X.509).
 
 ----------------------------------------
 

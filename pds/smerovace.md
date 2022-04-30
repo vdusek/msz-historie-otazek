@@ -1,4 +1,4 @@
-## Základní funkce směrovače, zpracování paketů ve směrovači, typy přepínání a architektur.
+### Základní funkce směrovače, zpracování paketů ve směrovači, typy přepínání a architektur.
 
 ----------------------------------------
 
