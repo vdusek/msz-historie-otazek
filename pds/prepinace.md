@@ -2,6 +2,31 @@
 
 ----------------------------------------
 
+- Rok: 2021
+- Otázka: Základní architektury přepínačů, algoritmy pro plánování, řešení blokování, vícestupňové přepínací sítě
+- Zkoušel: Veselý Vladimír, Ing., Ph.D.
+- Známka: A
+- Komentář: Prepinace -> primarne viacstupnove prepinanie, povedal a nakreslil som obecnu architekturu, popisal Clos a Benes siete, rozpraval som sam obcas sa pytal a usmernoval co chce pocut
+
+----------------------------------------
+
+- Rok: 2021
+- Otázka: Základní architektury přepínačů, algoritmy pro plánování, řešení blokování, vícestupňové přepínací sítě
+- Zkoušel: Veselý Vladimír, Ing., Ph.D.
+- Známka: A
+- Komentář: Vykladal jsem zase sam, pan Vesely super, jen prikyvoval pak se me ptal easy otazecky na parovani, biparitni graf, max. min. parovani, druhy a rozdeleni, uplne super proste. Pak mi doc. Hanacek rekl ze teda triple A a ze me navrhli na nejakou cenu nebo co, ale ja uz byl myslenkama na plazi, ale potesilo me to, komise moc fajn a dekuju jim.
+
+----------------------------------------
+
+- Rok: 2021
+- Otázka: Základní architektury přepínačů, algoritmy pro plánování, řešení blokování, vícestupňové přepínací sítě
+- Zkoušel: Grégr Matěj, Ing., Ph.D.
+- Známka: F
+- Komentář: To som vedel, začal som rozdelením architektúr prepínačov, priebežne sa pýtal ne veci čo ho zaujímali, napríklad výhody / nevýhody jednotlivých architektúr. Nechel žiadne podrobné detaily. Pýtal sa aké algoritmy poznám pre plánovanie, ale chcel ich len vymenovať. Možno ma už netrápil, lebo vedel že aj tak to nedám. Neviem, ale bol v pohode.
+Diplomku som obhajil, ale ústnu časť som neurobil. Výsledky za jednotlivé otázky mi nepovedali, len že som neuspel. Takže august to istí.
+
+----------------------------------------
+
 - Rok: 2020
 - Otázka: Architektury přepínačů
 - Zkoušel: Matoušek Petr
@@ -21,7 +46,7 @@
 - Rok: 2015
 - Otázka: Základní architektury přepínačů, algoritmy pro plánování, řešení blokování, vícestupňové přepínací
 - sítě.
-- Zkoušel: Švéda
+- Zkoušel: Švéda Miroslav, prof. Ing., CSc.
 - Známka: C
 - Komentář: nakreslil sem zakladni schema prepinace a rekl jak jde paket od vstupniho rozhrani k vystupnimu, ptal se jestli se pakety blokuji, rikam ze podle algoritmu planovani a pak chtel slyset slovicko virtualni fronty, pak sem rek ze propojovaci deska muze byt sdilena sbernice, nebo X-bar nebo vícestupnové (Clos nebo Benes), na to rek at si vyberu close nebo benese a popisu, tak sem popsal close (m,n,r)- co to znamena, podminka neblokace (m>=2n-1) a konec. Znamka C
 
@@ -37,7 +62,7 @@
 
 - Rok: 2014
 - Otázka: Architektura přepínačů - základní stavební prvky, typy architektur, přepínací sítě
-- Zkoušel: Švéda
+- Zkoušel: Švéda Miroslav, prof. Ing., CSc.
 - Známka: B
 - Komentář: Na papírku stálo: "Architektura přepínačů". Tož jsme celou minutu přemýšlel, co je to přepínač, jestli switch nebo router :-D. Naštěstí jsem se trefil. Začal jsem, že je to zařízení L2 Iso/Osi, načež se mě Švéda zeptal, jestli existují i L3 přepínače, tak jsem řekl, že jo, což mu stačilo a řekl, ať pokračuju. Pokračoval jsem popisem střev, že je tam vstupní karta a na ní vstupní interface a pak jsem řekl, že mám okno :-). Na to zareagoval Jaroš, že se něco musí starat o ty pakety, tak jsem si vzpomněl a popsal, co tam všechno je. Pak se Švéda ptal na propojovací desku. Řekl jsem typy a popsal používané algoritmy, chtěl hlavně Beneše, Klose, Torus... Zdál se být spokojený.
 

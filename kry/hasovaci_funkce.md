@@ -2,6 +2,14 @@
 
 ----------------------------------------
 
+- Rok: 2021
+- Otázka: Hašovací funkce, klíčovaný haš a MAC a jejich použití a vlastnosti
+- Zkoušel: Drábek Vladimír, doc. Ing., CSc.
+- Známka: A
+- Komentář: Povidal jsem asi 5 minut sam, vsechny podminky, vlastnosti, MDC, MAC, nakreslil schema se sym. sifrou a pak se me zeptal jaka ta funkce je, coz jsem moc nechapal tak jsem rikal ze treba DES je ta sym. sifra, aby to bylo rychle, a on porad jaka ta funkce je, pak jestli algebraicka nebo jaka tak rikam ano, pak mi trochu pomohl doc. Hanacek ze je to ta kompresni iterovana funkce a rikal jsem, ze redukuje informaci a jeste jsem dorekl druhy, avalanche efekt a slo se dal.
+
+----------------------------------------
+
 - Rok: 2018
 - Otázka: Hašovací funkce, klíčovaný haš a MAC a jejich použití a vlastnosti
 - Zkoušel: Hanáček Petr, doc. Dr. Ing.

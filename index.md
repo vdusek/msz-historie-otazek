@@ -2,15 +2,33 @@
 
 ## Historie pokládání otázek
 
+### Bezdrátové a mobilní sítě [BMS]
+- [Bezdrátové a lokální sítě](bms/bezdratove_lokalni_site.md)
+
+### Grafové algoritmy [GAL]
+- [Hledání minimální kostry](gal/hledani_minimalni_kostry.md)
+- [Hledání nejkratších cest](gal/hledani_nejkratsich_cest.md)
+
 ### Kryptografie [KRY]
+- [Asymetrická kryptografie](kry/asymetricka_kryptografie.md)
 - [Hašovací funkce](kry/hasovaci_funkce.md)
 - [Správa klíčů v asymetrické](kry/sprava_klicu_v_asymetricke.md)
+- [Symetrická kryptografie](kry/symetricka_kryptografie.md)
 
 ### Prostředí distribuovaných aplikací [PDI]
 - [Konzistentní globální stav](pdi/konzistentni_globalni_stav.md)
+- [Map Reduce](pdi/map_reduce.md)
 - [Volba koordinátora](pdi/volba_koordinatora.md)
 
 ### Přenos dat, počítačové sítě a protokoly [PDS]
+- [Detekcé síťových incidentů](pds/detekce_sitovych_incidentu.md)
+- [Peer to Peer sítě](pds/peer_to_peer_site.md)
 - [Přepínače](pds/prepinace.md)
 - [Řízení toku a prevence zahlcení](pds/rizeni_toku_a_prevence_zahlceni.md)
 - [Směrovače](pds/smerovace.md)
+- [Teorie směrování](pds/teorie_smerovani.md)
+
+### Internetové aplikace [WAP]
+- [Bezpečnost webových aplikací](wap/bezpecnost_webovych_aplikaci.md)
+- [Přes a distribuce webových dat](wap/prenos_a_distribuce_webovych_dat.md)
+- [Události v Javascriptu](wap/udalosti_v_javascriptu.md)

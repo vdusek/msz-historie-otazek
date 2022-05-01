@@ -2,6 +2,22 @@
 
 ----------------------------------------
 
+- Rok: 2021
+- Otázka: Správa klíčů v asymetrické kryptografii
+- Zkoušel: Očenášek Pavel, Mgr. Ing., Ph.D.
+- Známka: E
+- Komentář: Certifikáty, ptal se co je v certifikátu, co se musí udělat pro ověření platnosti certifikátu (CRL např.), pak jak se ověří platnost root CA, říkal jsem, že root CA musí být uložené v systému/browseru, ale asi mířil na křížové certifikáty.
+
+----------------------------------------
+
+- Rok: 2021
+- Otázka: Správa klíčů v asymetrické kryptografii
+- Zkoušel: Hanáček Petr, doc. Dr. Ing.
+- Známka: A
+- Komentář: Na papírku byla správa klíčů v asymetrické kryptografii (certifikáty X.509) - nechal mě celou dobu mluvit vůbec mi do toho nezasahoval. V podstatě jsem řekl úvod asymetrické kryptografie, že máme dva klíče veřejný a privátní a že u navazování komunikace musíme nějak ověřit veřejný klíč protistrany a že k tomu používáme právě certifikáty X.509. Pak jsem popsal co musí dělat certifikační autorita, jak probíhá registrace nového veřejného klíče (prototypový certifikát) a co je obsahem certifikátu, že hlavně platnost od kdy do kdy platí. A že certifikační autorita si musí udržovat černou listinu certifikátů a řekl jsem že buď jí zasílá uživatelům nebo OSCP protokol. Pak se mě Hanáček zeptal na cosi, že jak ověřím, že jak si ověřím ten daný veřejný klíč a já mu furt říkal něco o tom, že musím kontaktovat certifikační autoritu a on že ne. Pak mi řekl, že pomocí papírového media např. Moc jsem to nepochopil. Pak už se jen zeptal na to co jsou to křížové certifikáty a že mu to stačí. Budík myslím ani nezazvonil.
+
+----------------------------------------
+
 - Rok: 2018
 - Otázka: Správa klíčů v asymetrické kryptografii
 - Zkoušel: doc. Ing. Václav Zeman Ph.D.
