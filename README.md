@@ -4,6 +4,8 @@
 
 ### Šablona
 
+- V [index.md](index.md) musí být specifikovaná cesta ke každý otázce.
+
 ```
 ----------------------------------------
 
