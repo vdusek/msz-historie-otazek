@@ -16,6 +16,13 @@
 
 ----------------------------------------
 
+- Rok: 2020
+- Zkoušel: Malinka Kamil, Mgr., Ph.D.
+- Známka: E
+- Komentář: Správa klíčů u asym. krypto. Chtěl vědět k čemu je CA, jak slouží v reálné situaci. Kdo co a čím podepisuje a co obsahuje certifikát (nechtěl jméno, email atd. spíše technické věci - expirace atd. Osobně bych neřekl, že jsem byl tak ztracenej na E, ale párkrát jsem něco domotal a musel se spíš on ptát.
+
+----------------------------------------
+
 - Rok: 2018
 - Zkoušel: doc. Ing. Václav Zeman Ph.D.
 - Známka: C

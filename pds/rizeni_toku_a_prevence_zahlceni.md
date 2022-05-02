@@ -15,3 +15,10 @@
 - Komentář: Řízení zahlcení. Co, jak, kdy, proč.
 
 ----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Grégr Matěj, Ing., Ph.D.
+- Známka: E
+- Komentář: Řízení zahlcení - konkrétně TCP, jak funguje, sekvenční čísla, co zajišťuje a jak se to dělá u UDP, moc mě nenechal odbočit a trval na odpovědi.
+
+----------------------------------------

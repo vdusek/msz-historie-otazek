@@ -29,3 +29,17 @@
 - Komentář: Na papírku bylo: "Symetrická kryptografie - 3DES, proudové šifry". Chtěl jsem začít obecně o symetrické kryptografii no Malinka mě zastavil, že ať jdu rovnou na 3DES. Tak jsem začal že to je 3x DES a tím se dostal k DESu, řekl jsem, že má 16 kol a základem každého kola je v podstatě Feistelova šifra - tu jsem nakreslil na tabuli a řekl co musí splňovat ta funkce (aby to fungovalo nic - může to být i jednocestná funkce, aby to bylo bezpečné musí skrývat vlastnosti klíče a plaintextu). No zas mě vrátil k 3DES ať nakreslím schéma... tak jsem nakreslil tři obdélníčky za sebou spojený a do každého šel zvlášť klíč (vlastně stačí jen dva klíče a šifruje se na střídačku, ale nechal mě u těch tří). Pak se ptal, že jestli je to optimální zapojení a jestli to nejde jinak. Nic jinýho mě nenapadlo, tak jsem řekl, že nevím a on že jsou režimy jako např. EDE (jakože napřeskáčku Encryption a Decryption jiným klíčem a že jsou různé kombinace). Budík už zazvonil tak před minutou, no ještě po mně chtěl nakreslit PRNG s polynomem x^4+x+1 (já nakreslil XOR i k té jedničce úplně napravo, tak to mě opravil, ale jinak mu to stačilo.
 
 ----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Malinka Kamil, Mgr., Ph.D.
+- Známka: C
+- Komentář: Symetrická kryptografie - AES - princip, využití, slabé klíče (Malinka) - Popsal jsem AES podle schématu, které jsem viděl kdesi v KRY, jen velmi obecně, protože jsem do detailů nevěděl. Dále se ptal na počet cyklů a jak zajistit integritu a chránit zprávu proti přeskládání bloků.
+
+----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Malinka Kamil, Mgr., Ph.D.
+- Známka: F
+- Komentář: One time pad, Feistel, 3DES, vlastnosti sym. sifier. Dal som lahky uvod. Napisal som Feistela na tabulu, napisal som DES a 3DES. To 3DES som posral a nieco bolo zle to sme riesili cely cas. Potom este nakreslit OFB. Davno po budiku. Bol mily, ale chcel stale nejaky detail ktory som ja nevedel.
+
+----------------------------------------

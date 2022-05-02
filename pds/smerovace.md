@@ -10,6 +10,27 @@
 ----------------------------------------
 
 - Rok: 2020
+- Zkoušel: Polčák Libor, Ing., Ph.D.
+- Známka: A
+- Komentář: Architektura směrovačů - zde jsem na tabuli nakreslil to obecne schema, jake jsou tam tabulky a jake zaznamy v techto tabulkach najdeme. Pak se Polčák zeptal na to jak by to asi fungovalo v praxi (napr. jak ten paket prochazi siti), ale to byly asi spise takove rozsirujici otazky, myslim ze obecne veci co jsou v prednaskach uplne staci.
+
+----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Grégr Matěj, Ing., Ph.D.
+- Známka: A
+- Komentář: Směrovače - chtěl prinicip směrovačů, co se děje s paketem při příchodu do zařízení, jaké jsou architektury směrovačů (control plane, data plane).
+
+----------------------------------------
+
+- Rok: 2018
+- Zkoušel: Veselý Vladimír, Ing. Ph.D
+- Známka: E
+- Komentář: Základní funkce směrovače - chtěl vrstvu na které pracuje, obsah směrovací tabulky a libovolnou architekturu. Tahal to ze mě co se dalo a nakonec to stačilo. Od obou zkoušejících skvělý přístup.
+
+----------------------------------------
+
+- Rok: 2020
 - Zkoušel: Grégr Matěj, Ing., Ph.D.
 - Známka: B
 - Komentář: Funkce směrovače, zpracování paketů. Tohoto jsem se bál, protože jsem si moc nepamatoval, jak to tam vlastně funguje, ale bylo to spíš ve stylu otázka-odpověď. Začali jsem tím, co za zařízení je směrovač, co se tam děje s paketem (zpracování L2 a L3 hlaviček, z vstupu na výstup...) a pak jsme se motali kolem toho, podle čeho ví, kam dál poslat paket, co se děje s L2 hlavičkou (MAC adresa zkontrlována a zahozena) a pak jsme se motali kolem L3 hlavičky, co všechno se v ní dá zpracovat a jak to je s kontrlním součtem u ipv6. Fajn zkoušení, místama jsem si nebyl jistý se svojima odpověďma, ale Grégr vypadal spokojeně s touto diskuzí ve stylu otázka/odpověď.

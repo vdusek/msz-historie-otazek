@@ -9,6 +9,13 @@
 
 ----------------------------------------
 
+- Rok: 2020
+- Zkoušel: Malinka Kamil, Mgr., Ph.D.
+- Známka: E
+- Komentář: Co je hash, 3 vlastnosti, na co sa pouziva (integrita). Klicovany hash, chcel pocut ze kluc sluzi na autentizaciu a kluc musi masia mat obidve komunikujuce strany. Ako by sme zabezpecili integritu v symetrickej kryptografii (nieco s CBC ale nevedel som ako).
+
+----------------------------------------
+
 - Rok: 2018
 - Zkoušel: Hanáček Petr, doc. Dr. Ing.
 - Známka: A
