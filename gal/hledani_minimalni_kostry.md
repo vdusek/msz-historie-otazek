@@ -29,3 +29,10 @@
 - Komentář: Orientované grafy - definice, rozdíl oproti obyčejným, souvislost, eulerovy a hamiltonovy grafy, hledání porovnání algů na hledání minimální kostry (dijkstra vs floyd-warshall).
 
 ----------------------------------------
+
+- Rok: 2018
+- Zkoušel: Hrdina Jaroslav, doc. Mgr., Ph.D
+- Známka: A
+- Komentář: Hneď na začiatku mi povedal, že chce definíciu obyčajného grafu, definíciu kostry a minimálnej kostry, vymenovať algoritmy a jeden si vybrať a popísať. Toto som mal hotové asi tak za 3 minúty (vybral som si Prima), tak sa ma opýtal na rozdiel medzi Primom a Kruskalom. To mu stačilo len veľmi intuitívne. Potom sa pýtal či tam hrajú nejakú rolu záporné hrany, na čo som mu povedal, že nie. On ale trval na tom, že tam niečo s tými hranami je. Tak som mu povedal, že viem, že tie hrany sú podstatné pri najkratších cestách ale nie pri minimálnych kostrách. Tak mi povedal, nech vymenujem algoritmy pre najkratšie cesty a ktorý z nich môžem použiť ak sú v grafe aj záporné cykly. Celkovo nechcel žiadne pseudokódy ani nič, skôr len intuitívne.
+
+----------------------------------------
