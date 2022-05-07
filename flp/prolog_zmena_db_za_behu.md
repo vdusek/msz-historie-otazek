@@ -1,4 +1,4 @@
-### Přenos a distribuce webových dat (URI, HTTP(S), proudy HTTP, CDN, XHR).
+### Prolog – změna DB/programu za běhu (demonstrace na prohledávání stavového prostoru, práce se seznamy).
 
 ----------------------------------------
 

@@ -1,4 +1,4 @@
-### Přenos a distribuce webových dat (URI, HTTP(S), proudy HTTP, CDN, XHR).
+### Haskell – lazy evaluation (typy v jazyce včetně akcí, význam typových tříd, demonstrace lazy evaluation).
 
 ----------------------------------------
 

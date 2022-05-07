@@ -2,6 +2,27 @@
 
 ----------------------------------------
 
+- Rok: 2021
+- Zkoušel: Křivka Zbyněk, Ing., Ph.D.
+- Známka: A
+- Komentář: Orientované grafy v zátvorke silná súvislosť a Dijskstra, pýtal sa tiež na to ako je to so súvislosťou a chcel počuť, že Dijsktra nie je vhodný pre záporné ohodnotenie hrán.
+
+----------------------------------------
+
+- Rok: 2021
+- Zkoušel: Kolář Dušan, doc. Dr. Ing.
+- Známka: D
+- Komentář: Dijstra a úvod do problematiky.
+
+----------------------------------------
+
+- Rok: 2021
+- Zkoušel: Smrž Pavel, doc. RNDr., Ph.D.
+- Známka: C
+- Komentář: Orientované grafy: Začal som definíciou. To bolo OK. Potom zrazu chcel popísať algoritmus Floyd-Warshala. Povedal som čo robí, pre aké uzly (aj s kontrastom oproti Dijkstru). Dodal že som zabudol niečo definovať. Pozeral som sa na ňho nechápavo, veď som povedal všetko. Potom naznačil, že hrany by mali niečo mať. Doplnil som že ohodnotenie. Potom bola otázka na zložitosť, ktorú som zároveň vysvetlil aj na kóde (3 zanorené cykli a výpočet D[i][j]). Myslím že bez chyby aj keď poznamenal že n^(2,8) je presnejšie. A dodal som že funguje aj so záporným ohodnotením hrán, čo Dijkstra nie. Na to sa ma spýtal prečo Dijkstra nevie pracovať so zápornými hranami? Ale dodal, že on si myslí, že by mohol (WTF). Pokúšal som sa na to na mieste prísť a myslím že som nebol ďaleko od pravdy, nakoniec povedal, že problém je so zápornými kružnicami.
+
+----------------------------------------
+
 - Rok: 2020
 - Zkoušel: Čadík Martin, doc. Ing., Ph.D.
 - Známka: A

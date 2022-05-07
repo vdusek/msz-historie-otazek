@@ -1,4 +1,4 @@
-### Přenos a distribuce webových dat (URI, HTTP(S), proudy HTTP, CDN, XHR).
+### Práce v lambda kalkulu (reprezentace čísel a pravdivostních hodnot a operací nad nimi).
 
 ----------------------------------------
 

@@ -2,6 +2,22 @@
 
 ## Historie pokládání otázek
 
+### Teoretická informatika [TIN]
+- [Klasifikace jazyků](tin/klasifikace_jazyku.md)
+- [Konečné automaty](tin/konecne_automaty.md)
+- [Regulární výrazy](tin/regularni_vyrazy.md)
+- [Zásobníkové automaty](tin/zasobnikove_automaty.md)
+- [Turingovy stroje](tin/turingovy_stroje.md)
+- [Nerozhodnutelnost](tin/nerozhodnutelnost.md)
+- [Složitost](tin/slozitost.md)
+
+### Funkcionální a logické programování [FLP]
+- [Lambda kalkul](flp/lambda_kalkul.md)
+- [Práce v lambda kalkulu](flp/prace_v_lambda_kalkulu.md)
+- [Haskell](flp/haskell.md)
+- [Prolog - způsob vyhodnocení](flp/prolog_zpusob_vyhodnoceni.md)
+- [Prolog - změna db za běhu](flp/prolog_zmena_db_za_behu.md)
+
 ### Bezdrátové a mobilní sítě [BMS]
 - [Bezdrátové a lokální sítě](bms/bezdratove_lokalni_site.md)
 
