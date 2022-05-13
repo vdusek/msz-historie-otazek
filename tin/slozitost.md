@@ -18,6 +18,7 @@
 
 - Rok: 2021
 - Zkoušel: Vojnar Tomáš, prof. Ing., Ph.D.
+- Známka: E
 - Komentář: Věta o úplnosti, formální systém predikátové logiky, měl jsem u obou otázek okno, pomáhali jak se dalo.
 
 ----------------------------------------
