@@ -2,6 +2,11 @@
 
 ## Historie pokládání otázek
 
+### Statistika a pravděpodobnost [MSP]
+- todo
+- [Markovské řetězce](msp/markovske_retezce.md)
+- [Randomizované algoritmy](msp/randomizovane_algoritmy.md)
+
 ### Teoretická informatika [TIN]
 - [Klasifikace jazyků](tin/klasifikace_jazyku.md)
 - [Konečné automaty](tin/konecne_automaty.md)
