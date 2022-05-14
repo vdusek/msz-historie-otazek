@@ -9,18 +9,6 @@ F
 
 
 2021
-D
-Holík Lukáš, Mgr., Ph.D.
-Randomizačni algoritmy. Byl jsem úplně dutý. Vzpomněl jsem si jen jak to vypadá a vyplodil jsem nějaké použití. Chtěl pseudo kod a trochu popis. Potom kde se to používá a vzpomínal ten příklad z přednášky (pole s s 0/1) a chtěl vědět složitosti. Na konec ze mě tahal použití v quick sortu ale dost pomáhal - D.
-
-
-2021
-Rogalewicz Adam, doc. Mgr., Ph.D.
-A
-MSP (Rogalewicz) Markovské reťazce. Nechcel definície, všetko chcel ukázať na príklade. Najskôr som kreslila vlastný príklad, následne som mala nakresliť ako to bude vypadať pri hre človeče nezlob se na začiatku (hod 6 - pokračovanie, inak druhý pokus). V tomto príklade som mala na záver určiť pravdepodobnosť hodu 6 do troch pokusov; v nekonečne; a pravdepodobnosť, že v nekonečne šestka nepadne.
-
-
-2021
 A
 Černocký Jan, doc. Dr. Ing.
 [Náhodná proměnná] Černocký - Šli jsme od definice náhodné proměnné, k distribuční funkci, hustotě pravděpodobnosti a pravděpodobnostní funkci. Chtěl vědět základy - jaké vlastnosti tyto funkce mají. Jak poznáme jestli je proměnná diskrétní nebo spojitá. Ukázat příklady disrétní a spojité náhodné proměnné. Jak vypočítáme parametry rozdělení - zeptal se přímo na příklad s mincí. Jak spočítám pravděpodobnost něčeho u spojité proměnné - chtěl vědět přes integrál na konkrétním intervalu. Chtěl vědět jak z dat sestrojit funkci hustoty. Celé zkoušení probíhalo od něj v pohodě nikdo jiný se nepřidal.
@@ -34,12 +22,6 @@ Neuronové sítě pro strukturovaná data (konvoluční a rekurentní sítě, mo
 
 
 2021
-Češka Milan, RNDr., Ph.D.
-A
-[Randomizované algoritmy (Češka)] K čemu to slouží, proč provádíme randomizaci (snížení očekávané ceny algoritmu), popis Monte Carlo a Las Vegas; zástupce Las Vegas alg. (Quick Sort + co se tam randomizauje (pivot)), zástupce Monte Carlo alg. (Min-Cut/Max-Flow), vysvětlit randomizaci na nějakém problému (zvolil jsem Hiring Problem), jak se spočte ta očekávaná cena - nejprve se problém popíše pomocí náhodné proměnné, následně se spočte exp cost (napsat vzorec: suma x*p(x)), nešel do detailů stačily základy;
-
-
-2021
 B
 Burget Lukáš, doc. Ing., Ph.D.
 [Burget] - regresni analyza, motal sem dohromady MSP a SUR, rikal sem k cemu to je, nakreslil linearni regresi, napsal rovnici a jak se vypocitaji parametry.
@@ -49,9 +31,3 @@ Burget Lukáš, doc. Ing., Ph.D.
 D
 Holík Lukáš, Mgr., Ph.D.
 Holík - Pravděpodobnost, podmíněná pravděpodobnost, nezávislost.
-
-
-2021
-A
-Češka Milan, RNDr., Ph.D.
-[Češka 6 MSP randomizovane algoritmy] Chtel vedet co je to average case (oproti best case worstcase), ze je to nejaka suma pravdepodobnosti slozitosti pro vsechny ruzne vstupy (+/-). Pak co je monte carlo a las vegas plus vysvetlit na prikladu (vzal jsem to pole nul a jendnicek z prednasek). Ke kazdemu priklad realneho algoritmu (quick sort a min cut pro grafy - jen pojmenovat). A pak princip randomizace quicksortu (volba pivota, a ze idealne by mel byt v polovine).
