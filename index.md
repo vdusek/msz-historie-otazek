@@ -3,7 +3,8 @@
 ## Historie pokládání otázek
 
 ### Statistika a pravděpodobnost [MSP]
-- todo
+- [Pravděpodobnost](msp/pravdepodobnost.md)
+- [Náhodná proměnná](msp/nahodna_promenna.md)
 - [Markovské řetězce](msp/markovske_retezce.md)
 - [Randomizované algoritmy](msp/randomizovane_algoritmy.md)
 
