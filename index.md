@@ -5,6 +5,9 @@
 ### Statistika a pravděpodobnost [MSP]
 - [Pravděpodobnost](msp/pravdepodobnost.md)
 - [Náhodná proměnná](msp/nahodna_promenna.md)
+- [Odhady parametrů](msp/odhady_parametru.md)
+- [Testy](msp/testy.md)
+- [Regresni analýza](msp/regresni_analyza.md)
 - [Markovské řetězce](msp/markovske_retezce.md)
 - [Randomizované algoritmy](msp/randomizovane_algoritmy.md)
 
