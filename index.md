@@ -12,11 +12,11 @@
 - [Randomizované algoritmy](msp/randomizovane_algoritmy.md)
 
 ### Umělá inteligence a strojové učení [SUI]
-- [Strojové učení, generalizace](msp/strojove_uceni_generalizace.md)
-- [Klasifikace, generativní, diskriminativní](msp/klasifikace_generativni_diskriminativni.md)
-- [Neuronové sítě a jejich trénování](msp/neuronove_site_a_jejich_trenovani.md)
-- [Neuronové sítě pro strukturovaná data](msp/neuronove_site_pro_strukturovana_data.md)
-- [Prohledávání stavového prostoru](msp/prohledavani_stavoveho_prostoru.md)
+- [Strojové učení, generalizace](sui/strojove_uceni_generalizace.md)
+- [Klasifikace, generativní, diskriminativní](sui/klasifikace_generativni_diskriminativni.md)
+- [Neuronové sítě a jejich trénování](sui/neuronove_site_a_jejich_trenovani.md)
+- [Neuronové sítě pro strukturovaná data](sui/neuronove_site_pro_strukturovana_data.md)
+- [Prohledávání stavového prostoru](sui/prohledavani_stavoveho_prostoru.md)
 
 ### Teoretická informatika [TIN]
 - [Klasifikace jazyků](tin/klasifikace_jazyku.md)
