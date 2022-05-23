@@ -27,6 +27,12 @@
 - [Nerozhodnutelnost](tin/nerozhodnutelnost.md)
 - [Složitost](tin/slozitost.md)
 
+### Ukládání a příprava dat [UPA]
+- [Postrelační a rozšířené relační](upa/postrelacni_a_rozsirene_relacni.md)
+- [NoSQL](upa/nosql.md)
+- [Získávání znalostí z dat](upa/ziskavani_znalosti_z_dat.md)
+- [Porozumění datům](upa/porozumeni_datum.md)
+
 ### Funkcionální a logické programování [FLP]
 - [Lambda kalkul](flp/lambda_kalkul.md)
 - [Práce v lambda kalkulu](flp/prace_v_lambda_kalkulu.md)
