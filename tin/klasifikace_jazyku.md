@@ -43,3 +43,10 @@
 - Komentář: Začal jsem chomského formami gramatik, napsal pravidla, řekl jaký bych použil automat. Nakonec jsem napsal kompletní gramatiku pro a^nb^n v chomského formátu.
 
 ----------------------------------------
+
+- Rok: 2019
+- Zkoušel: Meduna Alexander, prof. RNDr., CSc.
+- Známka: B
+- Komentář: V podstatě jsem mu nic moc neřekl, zaměřil se na uzávěrové vlastnosti, přičemž ho nejvíce zajímalo, co vlastně zajímá uzavřenost, nakonec vůči čemu nejsou uzavřeny L0 a zvonil budík.
+
+----------------------------------------

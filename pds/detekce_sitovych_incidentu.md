@@ -38,6 +38,13 @@
 ----------------------------------------
 
 - Rok: 2019
+- Zkoušel: Ryšavý Ondřej, doc. Ing., Ph.D.
+- Známka: E
+- Komentář: Identifikace sitoveho provozu - metody a popis, hlbsie ako by som robil statisticku metodu.
+
+----------------------------------------
+
+- Rok: 2019
 - Zkoušel: Veselý Vladimír, Ing., Ph.D.
 - Známka: B
 - Komentář: IDS, IPS, Firewall, povedal som o klasifikacii packetov, signaturach, IPS  a IDS systemoch, zapojeniach atd, akym sposobom by sa riesilo prerusenie spojenia atd.

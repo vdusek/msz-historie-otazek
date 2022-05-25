@@ -50,3 +50,10 @@
 - Komentář: Nerozhodnutelnost: Jenom základy - co znamená rozhodnutelný, částečně rozhodnutelný a nerozhodnutelný problém, uvést příklady, popsat co je to redukce a některé její vlastnosti. Za 4 minuty hotovo.
 
 ----------------------------------------
+
+- Rok: 2019
+- Zkoušel: Češka Milan, prof. RNDr., CSc.
+- Známka: B
+- Komentář: Uvod co je to nerozhodnutelnost a v rámci čeho ji řešíme, co je to nerozhodnutelný problém (chtěl po mně, abych se zamyslel nad nějakým problémem, který bych nedovedl rozhodnout pro jazyky generované bezkontextovými gramatikami). Narážel na problém ekvivalence gramatik, jehož rozhodnutelnost jsem měl ale spletenou s inkluzí gramatik a proto jsem se mu nejprve pokusil tvrdit, že je rozhodnutelný v deterministických bezkontextových. Celkem mě protlemil a zeptal se mě, jestli jsem to dokázal a v ten moment jsem si uvědomil, že říkám hovna. No, došli jsme k tomu, že ten problém je nerozhodnutelný a není ani částečně rozhodnutelný. Pak mě požádal, abych dokázal, že existuje jazyk mimo L0 (to jsem zvládl, ale nelíbilo se mu, že místo 0 a 1 do matice pro diagonalizaci jsem psal indexovaná 'a' a tvrdil, že hodnotu bych přiřadil ohodnocující funkcí, která podle toho, jestli je řetězec přijímán nebo není přiřadí booleovskou hodnotu (ty jedničky a nuly). Když jsem mu to vysvětlil, už s tím asi byl v pohodě, ale dvakrát se netvářil. Jinak jsme tedy nevyužili minutu přípravy, protože v moment co jsem na tabuli začal psát PCP (které bylo na papírku), tak se zeptal kterou otázkou začínám a potom co zjistil, že je to ta jeho, tak mi nabídl/nakázal (přijal bych) že mě povede a šli jsme rovnou na zkoušení. Než mi řekl, že to stačí tak se mě ještě zeptal, co mělo být to na tabuli (PCP) a jestli je částečně rozhodnutelný (ne). Jo a ještě se mě ptal jaký jiný nerozhodnutelný problém bych dokazoval přes diagonalizaci (HP ...).
+
+----------------------------------------

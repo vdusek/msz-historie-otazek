@@ -36,3 +36,10 @@
 - Komentář: Povedal som mu definicie mnozin aj vyrazov, chcel po mne napisať nejakú rovnicu jednoduchu, potom urobiť KA z toho, potom prevod NKA na DKA slovne a tam som sa už poplietol a nejak sme to riešili až do konca, snažil sa pomôcť, moc sme sa nechapali, nakoniec ma k tomu dokopal.
 
 ----------------------------------------
+
+- Rok: 2019
+- Zkoušel: Meduna Alexander, prof. RNDr., CSc.
+- Známka: B
+- Komentář: KA - uplně v pohodě, automat dle zadání jazyka nakreslit a popsat, nakreslil jsem NKA tak převést intuitivně na DKA, popsat determinismus.
+
+----------------------------------------

@@ -23,7 +23,7 @@
 
 ----------------------------------------
 
-- Rok: 2018
+- Rok: 2020
 - Zkoušel: Veselý Vladimír, Ing. Ph.D
 - Známka: E
 - Komentář: Základní funkce směrovače - chtěl vrstvu na které pracuje, obsah směrovací tabulky a libovolnou architekturu. Tahal to ze mě co se dalo a nakonec to stačilo. Od obou zkoušejících skvělý přístup.
@@ -34,6 +34,41 @@
 - Zkoušel: Grégr Matěj, Ing., Ph.D.
 - Známka: B
 - Komentář: Funkce směrovače, zpracování paketů. Tohoto jsem se bál, protože jsem si moc nepamatoval, jak to tam vlastně funguje, ale bylo to spíš ve stylu otázka-odpověď. Začali jsem tím, co za zařízení je směrovač, co se tam děje s paketem (zpracování L2 a L3 hlaviček, z vstupu na výstup...) a pak jsme se motali kolem toho, podle čeho ví, kam dál poslat paket, co se děje s L2 hlavičkou (MAC adresa zkontrlována a zahozena) a pak jsme se motali kolem L3 hlavičky, co všechno se v ní dá zpracovat a jak to je s kontrlním součtem u ipv6. Fajn zkoušení, místama jsem si nebyl jistý se svojima odpověďma, ale Grégr vypadal spokojeně s touto diskuzí ve stylu otázka/odpověď.
+
+----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Grégr Matěj, Ing., Ph.D.
+- Známka: A
+- Komentář: Chtěl prinicip směrovačů, co se děje s paketem při příchodu do zařízení, jaké jsou architektury směrovačů (control plane, data plane).
+
+----------------------------------------
+
+- Rok: 2019
+- Zkoušel: Matoušek Petr, Ing., Ph.D., M.A.
+- Známka: C
+- Komentář: Průchod paketu směrovačem. Chtěl přesně a a hlavně postupně vědět, jak prochází, nenechal mě nic přeskočit, dokud jsem mu nedořekl, co se děje předtím. Chtěl ale jen to nejzákladnější, žádné extra detaily. Když jsem tu otázku viděl, tak jsem se docela bál, ale dopadlo to docela dobře. Chtěl jsem začít kreslit na tabuli, ale začal se hned ptát, takže jak jsem se začal otáčet, dokončil jsem 360 stupňovou otočku a začal mu odpovídat.
+
+----------------------------------------
+
+- Rok: 2019
+- Zkoušel: Veselý Vladimír, Ing. Ph.D
+- Známka: D
+- Komentář: Základní funkce směrovače - na papirku jsem mel diagram se siti PC - switch - router - router - switch - PC a popsat, jak tim proputuje packet, jak se zapouzdruje/vypouzdruje z jednotlivych urovni. Ptal se na mac/ip adresy jednotlivych framu/packetu v jednotlivych castech toho diagramu - ethernet ma next hop a source je toho, od koho to pochazi, ta se tam vytvori kdyz ten packet opousti smerovac. Dest a source IP jsem docela motal, nicmene se snazil docela pomoct a kdyz jsem nevedel, tak na se me snazil navest z jine strany.
+
+----------------------------------------
+
+- Rok: 2019
+- Zkoušel: Veselý Vladimír, Ing. Ph.D
+- Známka: E
+- Komentář: Popsal jsem průchod paketu směrovačem, checksum, TTL, prostě ten diagram, drop packet jak to tam teče. Pak jsme se zasekli co je ve směrovací tabulce. ip prefix x next hop jsem řekl, ještě je tam metrika. To jsem si vzpomněl na poslední chvíli.
+
+----------------------------------------
+
+- Rok: 2019
+- Zkoušel: Veselý Vladimír, Ing. Ph.D
+- Známka: E
+- Komentář: Pri druhej otázke som stroskotal na základoch, popisal som čo je v smerovacej tabuľke ale niečo mu tam chýbalo, niečo o ramcoch a eth hlavičiek, čakal som F.
 
 ----------------------------------------
 

@@ -36,3 +36,10 @@
 - Komentář: NP-úplnost. Rozdíl mezi P a NP. Co je asymptotická složitost. Celé to bylo zaměřené na časovou složitost. Nechtěl psát žádné definice (i když jsem v přípravě napsal na tabuli definici P a NP). Chtěl všechno jen slovně intuitivně popsat. Jaký je rozdíl mezi determinismem a nedeterminismem ve složitosti (chtěl slyšet, že nedeterministický TS lze implementovat deterministickým TS, ale za cenu exponenciálního nárůstu času). Chtěl slyšet, že časová složitost odpovídá počtu kroků při výpočtu na TS. Chtěl taky slyšet, že nedeterminismus nepřináší nic z pohledu vyčíslitelnosti. Co je to NP-úplnost, co je obecně úplnost a těžkost. Chtěl slyšet příklad nějakého NP-úplného problému. Když jsem řekl SAT, tak chtěl definovat, co je to SAT problém.
 
 ----------------------------------------
+
+- Rok: 2019
+- Zkoušel: Češka Milan, prof. RNDr., CSc.
+- Známka: D
+- Komentář: Třída složitosti P, NP a NP-úplnost. Pořád jsem mluvil o algoritmech, ale chtěl po mě slovo problém, nakonec ho ze mě dostal. Chtěl vědět co to je ta složitost, jak se určuje, podle čeho atd. U úplnosti co to je a k čemu je to dobré.
+
+----------------------------------------

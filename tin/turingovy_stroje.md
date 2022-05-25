@@ -43,3 +43,17 @@
 - Komentář: Parciálne rekurzivné funkcie.
 
 ----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Hrubý Martin, Ing., Ph.D.
+- Známka: A
+- Komentář: Turingovy stroje - v podstatě hned přešel k otázkám (co to je, jaké máme typy, jaké jazyky to přijímá a rozhoduje).
+
+----------------------------------------
+
+- Rok: 2017
+- Zkoušel: Hrubý Martin, Ing., Ph.D.
+- Známka: A
+- Komentář: Definice parcialni funkce, pocatecni funkce, kombinace, kompozice, primitivne rekuze, minimalizace. Definovani plus pomoci primitivne rekurze. Casto otazky "tohle je jeste totalni? Tohle je parcialni?". Pokracovali jsme chvilku potom, co zvonil budik.
+
+----------------------------------------

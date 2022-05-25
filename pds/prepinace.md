@@ -30,6 +30,13 @@
 
 ----------------------------------------
 
+- Rok: 2019
+- Zkoušel: Matoušek Petr, Ing., Ph.D., M.A.
+- Známka: D
+- Komentář: Jen a pouze blokování v přepínačích a ke konci architektura přepínacích vícestupňových sítí. Řekl jsem na začátku dva typy blokování (head of line, vnitřní) a nebyl schopný to nakreslit a dost s tím bojoval. Nakonec jsem +- vysvětlil, že HoL vyřešíme frontou, což bylo nešťastně povězeno, protože správná odpověď je n frontami pro každý výstupní port. Pak se ptal na to, co je to vnitřní blokování, což jsem se snažil vysvětlit, že je když se fyzicky nelze spojit vstup s výstupem, ale asi to není taky úplně pravda. Jako řešení jsem navrhnul použít vícestupňové přepínače a zabil se na Clos síti, kde jsem 1) přestal chápat na co se mě ptá, když chce slyšet stupeň (v moment co mi vysvětlil, že chtěl 3-stupňový přepínání slyšet mi tedy docvaklo že myslel ty fyzický úrovně když se díváme zleva do prava kolik toho tam je) a 2) už jsem celkem mlel z posledního, protože ve většině případů to na mě působilo, že jsem odpověděl nedostatečně a věděl jsem, že v tom jak přesně ty vícestupňové přepínací sítě fungují mám mezery. Za dveřma jsem hodně doufal, že přihlédnou k slušné diplomce a ne úplně na píču výkonu u TINu. Tato část sítí byla velká tragédie na mé straně, nešlo od toho odběhnout a po stačí jsem tam úplně naději neviděl.
+
+----------------------------------------
+
 - Rok: 2018
 - Zkoušel: Matoušek Petr, Ing., Ph.D., M.A.
 - Známka: A
