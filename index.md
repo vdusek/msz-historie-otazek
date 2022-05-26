@@ -32,6 +32,8 @@
 - [NoSQL](upa/nosql.md)
 - [Získávání znalostí z dat](upa/ziskavani_znalosti_z_dat.md)
 - [Porozumění datům](upa/porozumeni_datum.md)
+- [Prostorové DB](upa/prostorove_db.md)
+- [Prostorové DB indexace](upa/prostorove_db_indexace.md)
 
 ### Funkcionální a logické programování [FLP]
 - [Lambda kalkul](flp/lambda_kalkul.md)
