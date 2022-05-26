@@ -5,7 +5,7 @@
 - Rok: 2015
 - Zkoušel: Očenášek Pavel, Mgr. Ing., Ph.D.
 - Známka: A
-- Komentář: Co jsem k tomu rekl(a)/na co se ptali/co mne vytkli: Na papírku bylo napsané, že se mám zaměřit na fyzickou a linkovou vrstu, pak standard 802.11a. Řekl jsem co jsem věděl, docela mi pomohli kluci na chodbě, kteří mi něco vysvětlili předtím než jsem šel dovnitř. I když jsem občas nemluvil úplně pravdu, byl v pohodě a přecházel to. Zazvonil budík a dal mi poslední otázku na to, jaké frekvenční pásmo je používané v standardu 802.15.1, to jsem věděl a tak to ukončil. Všichni byli hrozně hodní, kdyby Očenášek chtěl, tak by mě mohl na Wifi zničit, ale ptal se jen na základy.
+- Komentář: Na papírku bylo napsané, že se mám zaměřit na fyzickou a linkovou vrstu, pak standard 802.11a. Řekl jsem co jsem věděl, docela mi pomohli kluci na chodbě, kteří mi něco vysvětlili předtím než jsem šel dovnitř. I když jsem občas nemluvil úplně pravdu, byl v pohodě a přecházel to. Zazvonil budík a dal mi poslední otázku na to, jaké frekvenční pásmo je používané v standardu 802.15.1, to jsem věděl a tak to ukončil. Všichni byli hrozně hodní, kdyby Očenášek chtěl, tak by mě mohl na Wifi zničit, ale ptal se jen na základy.
 
 ----------------------------------------
 
