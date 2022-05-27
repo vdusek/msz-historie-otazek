@@ -2,9 +2,9 @@
 
 ----------------------------------------
 
-- Rok:
-- Zkoušel:
-- Známka:
-- Komentář:
+- Rok: 2021
+- Zkoušel: Kolář Dušan, doc. Dr. Ing.
+- Známka: D
+- Komentář: Prostorové databáze, podotázky na diskrétní prostor, jak ukládáme prostorová data + indexace, zkoušení taky v pohodě, když jsem nevěděl, tak navedl.
 
 ----------------------------------------

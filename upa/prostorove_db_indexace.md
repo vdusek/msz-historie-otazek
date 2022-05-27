@@ -4,13 +4,6 @@
 
 - Rok: 2021
 - Zkoušel: Kolář Dušan, doc. Dr. Ing.
-- Známka: D
-- Komentář: Prostorové databáze, podotázky na diskrétní prostor, jak ukládáme prostorová data + indexace, zkoušení taky v pohodě, když jsem nevěděl, tak navedl.
-
-----------------------------------------
-
-- Rok: 2021
-- Zkoušel: Kolář Dušan, doc. Dr. Ing.
 - Známka: F
 - Komentář: Algoritmy indexace prostorových db - Řekl jsem funkci KD-tree, zeptal se na operace a nevýhody a chtěl konkretizovat je příkladně. Poté se zeptal na alterntivu, která řeší tyto neduhy částečně. Adaptive tree. A její funkcionalitu. To jsem si už přesně nevzpomněl jak přesně funguje, řekl jsem jen, že neděli podle bodů ten strom). Bohužel toto nestačilo asi. Spíše už věděli,ž e první okruh jsem nedal, tak jsem byl už jasný. Komise nebyla na obědě a všichni už byli znavení. Holt nevýhoda posledního.
 
