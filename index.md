@@ -2,6 +2,14 @@
 
 ## Historie pokládání otázek
 
+### Architektury výpočetních systémů
+- [Architektura superskalárních procesorů](avs/architektura_superskalarnich_procesoru.md)
+- [Paměťová konzistence](avs/pametova_konzistence.md)
+- [Datový paralelismus](avs/datovy_paralelismus.md)
+- [Architektury se sdílenou pamětí](avs/architektury_se_sdilenou_pameti.md)
+- [Koherence paměti cache](avs/koherence_pameti_cache.md)
+- [Paralelní zpracování v OpenMP](avs/paralelni_zpracovani_v_openmp.md)
+
 ### Statistika a pravděpodobnost [MSP]
 - [Pravděpodobnost](msp/pravdepodobnost.md)
 - [Náhodná proměnná](msp/nahodna_promenna.md)
