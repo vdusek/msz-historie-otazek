@@ -9,3 +9,10 @@
 Komisia mi taktiež prišla príjemná a ochotná pomôcť.
 
 ----------------------------------------
+
+- Rok: 2019
+- Zkoušel: Jaroš Jiří, doc. Ing., Ph.D.
+- Známka: D
+- Komentář: OpenMP smyčky a tasky, tato otázka byla v pohodě, nevěděl jsem pár detailů ohledně rozdílu mezi static a dynamic a pak kde si můžeme být jistí, že všechny tasky skončily (na konci paralel).
+
+----------------------------------------
