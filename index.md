@@ -2,7 +2,7 @@
 
 ## Historie pokládání otázek
 
-### Architektury výpočetních systémů
+### Architektury výpočetních systémů [AVS]
 - [Architektura superskalárních procesorů](avs/architektura_superskalarnich_procesoru.md)
 - [Paměťová konzistence](avs/pametova_konzistence.md)
 - [Datový paralelismus](avs/datovy_paralelismus.md)
@@ -80,3 +80,8 @@
 - [Bezpečnost webových aplikací](wap/bezpecnost_webovych_aplikaci.md)
 - [Přes a distribuce webových dat](wap/prenos_a_distribuce_webovych_dat.md)
 - [Události v Javascriptu](wap/udalosti_v_javascriptu.md)
+
+### Simulační nástroje a techniky [SNT]
+- [Modelování diskrétních systémů (procesy, události), celulární automaty.](snt/diskrete.md)
+- [Modelování spojitých systémů (bloková schémata, rovnice, numerické metody a jejich vlastnosti).](snt/continuous.md)
+- [Modelování kombinovaných systémů (stavové podmínky a stavové události).](snt/combi.md)
