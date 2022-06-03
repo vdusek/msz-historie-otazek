@@ -85,3 +85,13 @@
 - [Modelování diskrétních systémů (procesy, události), celulární automaty.](snt/diskrete.md)
 - [Modelování spojitých systémů (bloková schémata, rovnice, numerické metody a jejich vlastnosti).](snt/continuous.md)
 - [Modelování kombinovaných systémů (stavové podmínky a stavové události).](snt/combi.md)
+
+### Simulační nástroje a techniky [SAV]
+- [Temporální logiky CTL*, CTL a LTL](sav/temporal_logic.md)
+- [LTL model checking založený na automatech](sav/ltl_model_checking.md)
+- [Predikátová abstrakce](sav/predicate_abstraction.md)
+- [Abstraktní interpretace](sav/abtract_interpretation.md)
+- [Analýza toku dat a ukazatelové analýzy.](sav/dfa.md)
+- [Verifikace pomocí symbolického provádění.](sav/symbolic_verification.md)
+- [Deduktivní verifikace anotovaných programů.](sav/symbolic_verification.md)
+- [Metody řešení SAT a SMT problémů.](sav/sat_smt_solving.md)

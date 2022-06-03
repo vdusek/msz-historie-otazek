@@ -4,8 +4,8 @@
 
 - Rok: 2011
 - Zkoušel: Peter Peringer, Dr.,
-- Známka: ?
-- Komentář: Rozdělil jsem typy algoritmů na diskrétní typu next event (k activity scanning jsem se ani nedostal), spojité a kombinované (řízené spojitou | diskrétní částí). Napsal jsem algoritmus next-event (celkem bez problémů), popsal jsem slovně algoritmus spojité simulace a nakonec jsem napsal algoritmus kombinované simulace (řízené diskrétní částí). Tady jsem udělal drobnou chybku (protože se mi to v hlavě trochu pletlo s tím kombinovaným algoritmem řízeným spojitou částí), ale Peringer mě hned nasměroval správným směrem, takže jsem to nakonec dal do kopy.
+- Známka: B
+- Komentář: Rozdělil jsem typy algoritmů na diskrétní typu next event (k activity scanning jsem se ani nedostal), spojité a kombinované (řízené spojitou, diskrétní částí). Napsal jsem algoritmus next-event (celkem bez problémů), popsal jsem slovně algoritmus spojité simulace a nakonec jsem napsal algoritmus kombinované simulace (řízené diskrétní částí). Tady jsem udělal drobnou chybku (protože se mi to v hlavě trochu pletlo s tím kombinovaným algoritmem řízeným spojitou částí), ale Peringer mě hned nasměroval správným směrem, takže jsem to nakonec dal do kopy.
 
 ----------------------------------------
 
