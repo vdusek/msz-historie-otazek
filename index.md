@@ -50,6 +50,15 @@
 - [Prolog - způsob vyhodnocení](flp/prolog_zpusob_vyhodnoceni.md)
 - [Prolog - změna db za běhu](flp/prolog_zmena_db_za_behu.md)
 
+### Paralelní a distribuované algoritmy [PRL]
+- [Model PRAM](prl/model_pram.md)
+- [Paralelní algoritmy - seznamy, stromy a grafy](prl/paralelni_algoritmy_seznamy_stromy_grafy.md)
+- [Interakce mezi procesy](prl/interakce_mezi_procesy.md)
+- [Paralelní algoritmy - předávání zpráv](prl/paralelni_algoritmy_predavani_zprav.md)
+- [Distribuovaný broadcast](prl/distribuovany_broadcast.md)
+- [Klasifikace paralelních architektur](prl/klasifikace_paralelnich_architektur.md)
+- [Paralelní algoritmy - řazení a vyhledávání](prl/paralelni_algoritmy_razeni_a_vyhledavani.md)
+
 ### Bezdrátové a mobilní sítě [BMS]
 - [Bezdrátové a lokální sítě](bms/bezdratove_lokalni_site.md)
 
