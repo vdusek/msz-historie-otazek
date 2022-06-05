@@ -22,3 +22,17 @@
 - Komentář: Neuronové sítě a jejich trénování.
 
 ----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Hradiš Michal, Ing., Ph.D.
+- Známka: B
+- Komentář: Neuronove sítě backpropagation a SGD. Hradis byl od zacatku prijemnej a usmevavej. Ptal se na SGD (do ted netusim co to je), ale zminil, ze u back propagation je to stejny. Tak sem zacal mluvit o back propagation. Topologie site, princip uceni. Chtel slyset pojem gradient descent a principialne popsat co to je gradient (parcialni derivace chyb podle vahy, nebo tak nejak. Uz sem to zapomnel.). Nakonec napsat VZOREC pro aktualizaci vahy.
+
+----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Rozman Jaroslav, Ing., Ph.D.
+- Známka: D
+- Komentář: Perceptron, backprop. Velmi v pohode, nakreslil som neuron, napisal jeho funkciu, a potom som sa celkom zamotal do kecov okolo biasu, a tam sme skoncili, pytali sa vsetci, lebo som bol fakt zamotany. Ale debata v poho a bez stresu, lebo som uz vedel, ze aj ked sa motam, povedal som dost na aspon E.
+
+----------------------------------------

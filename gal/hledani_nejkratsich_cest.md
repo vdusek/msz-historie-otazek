@@ -36,3 +36,10 @@
 - Komentář: Dijkstra a F-W - k čemu to je, popsat oba algoritmy jak fungují.
 
 ----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Češka Milan, RNDr., Ph.D.
+- Známka: A
+- Komentář: Orientované grafy -- silně souvislá komponenta, hledání minimální cesty. Neformálně jsem popsal orientované grafy, potom jsem popsal silnou souvislost ale asi ne moc dobře, tak jsem měl nakreslit nesouvislý graf a potom souvislý graf a potom silně souvislý graf. Potom jsme řešili složitost hledání silně souvislé komponenty a jak bych to implementoval. Řekl jsem, že bych prohledával všechny možné cesty pro každý uzel, algoritmus BFS a polynomiální složitost. Správně to bylo DFS a chtěl jakou přesně to má složitost. Myslím že jsem nakonec řekl kvadratickou ale asi to jde efektivněji. Potom chtěl popsat Dijkstra algoritmus, potom co jsem to popsal tak se zeptal jaké znám další algoritmy. Řekl jsem Floyd-Warshall ale chtěl slyšet Bellman-Ford ale nevadilo mu to. Stačilo jenom říct jaké má vlastnosti.
+
+----------------------------------------

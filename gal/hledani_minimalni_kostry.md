@@ -30,6 +30,20 @@
 
 ----------------------------------------
 
+- Rok: 2020
+- Zkoušel: Rogalewicz Adam, doc. Mgr., Ph.D.
+- Známka: C
+- Komentář: Strom, kostra, minimální kostra
+
+----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Křivka Zbyněk, Ing., Ph.D.
+- Známka: ?
+- Komentář: Jediné čo som formalne definoval bolo obecny graf, ostatné som iba slovne opísal. Mal som opisat metodu na min kostru - nevedel som si spomenut ani na jeden nazov metody, tak som opisoval kruskalov aspon algoritmom.
+
+----------------------------------------
+
 - Rok: 2018
 - Zkoušel: Hrdina Jaroslav, doc. Mgr., Ph.D
 - Známka: A

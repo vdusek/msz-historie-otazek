@@ -37,6 +37,13 @@
 
 ----------------------------------------
 
+- Rok: 2020
+- Zkoušel: Holík Lukáš, Mgr., Ph.D.
+- Známka: D
+- Komentář: Chtěl definovat složitosti. Poté jakým způsobem funguje redukce, k čemu se používá a jaké vlastnosti musí mít problémy, aby byla redukce možná.
+
+----------------------------------------
+
 - Rok: 2019
 - Zkoušel: Češka Milan, prof. RNDr., CSc.
 - Známka: D

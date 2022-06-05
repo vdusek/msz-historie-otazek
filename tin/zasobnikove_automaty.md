@@ -37,6 +37,13 @@
 
 ----------------------------------------
 
+- Rok: 2020
+- Zkoušel: Rogalewicz Adam, doc. Mgr., Ph.D.
+- Známka: B
+- Komentář: Zásobníkové automaty (det, nedet); komisia uplne v pohode, uzáverové vlastnosti som vedel len pre NZA, pre DZA vobec, k optimalizacnym algoritmom zaklady teda PSO a ACO
+
+----------------------------------------
+
 - Rok: 2019
 - Zkoušel: Meduna Alexander, prof. RNDr., CSc.
 - Známka: B
