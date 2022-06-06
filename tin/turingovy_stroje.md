@@ -51,6 +51,41 @@
 
 ----------------------------------------
 
+- Rok: 2020
+- Zkoušel: Křivka Zbyněk, Ing., Ph.D.
+- Známka: D
+- Komentář: Turingovy stroje, v závorce bylo napsáno: "definice, univerzální TS" (Křivka) - Začal jsem definicí, tu jsem napsal na tabuli s menšími chybkami, ty jsem ale opravil. Potom se přešlo na univerzální TS, na ty jsem si ale nevzpoměl... Křivka napovídal, až to skoro řekl za mě :D. Samozřejmě mi to pak docvaklo, jen jsem si to prostě nedokázal spojit s tím pojmem. V tu chvíli zazvolnil budík a ukončil to. Chtěl fakt jen tyto dvě věci, nic dalšího ho nezajímalo. Čekal jsem tak C, ale nakonec za D. Křivka byl jako zkoušející v pohodě.
+
+----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Křivka Zbyněk, Ing., Ph.D.
+- Známka: D
+- Komentář: Turingovy stroje, univerzální TS. Začal jsem obecně co je Turingův stroj a z čeho se skládá, potom jsem začal že definuju formálně tu šestici a hned mě zarazil, že mu bude stačit definice přechodové funkce, Tu jsem s po chvíli vypotil, ale neuvedl jsem že není definována pro konečný stav. Potom se ptal jak teda TS funguje, kdy a jak přijme TS nějaký řetězec. Na formální popis jsem se nezmohl, jen jsem obecně a dost zmateně popsal princip přechodu a jak TS zastaví. Potom se ptal na univerzální TS, stačil mu zhruba popsat princip. Nakonec jsem špatně odpověděl na otázku zda je možné k-páskový TS převést na jednopáskový TS. Celkově jsem měl problém popsat jak to funguje a mluvil jsem hodně zmateně, nakonec za D.
+
+----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Rogalewicz Adam, doc. Mgr., Ph.D.
+- Známka: A
+- Komentář: Parciálně rekurzivní funkce - elementární funkce, primitivní rekurze, co je to totální funkce, parciální rek. funkce, demostrace funkce dělení.
+
+----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Janoušek Vladimír, doc. Ing., Ph.D.
+- Známka: E
+- Komentář: Definici jsem skončil u přechodové fuknce, kterou chtěli popsat pro DTS a následně NTS; zda je NTS prakticky realizovatelný nebo se jedná jenom o teoretický model; realizace NTS na DTS a jak bych ošetřil stavy, kde by u NTS cyklil (prohledávání do šířky vs do hloubky); Janoušek taky velice hodný. Celkově komise v pohodě ačkoliv tam byly občasné úšklebky. Popravdě jsem si myslel, že to nemám, takže komise asi přimhouřila obě oči.
+
+----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Janoušek Vladimír, doc. Ing., Ph.D.
+- Známka: C
+- Komentář: Měl jsem z té otázky strach, začal jsem počátečními funkcemi, jen vyjmenoval, víc nechtěl. Následně primitivně rekurzivní, tam jsme se chvíli zastavili, jelikož jsem mu neustále ukazoval ty funkce na nějakých příkladech, ale on chtěl jejich definici, kterou ze mě nakonec vytáhl. Pak u parciálně rekurzivních minimalizace, její popis a co je tam za problém (že nemusí skončit). Nakonec jen proč jsou parciální funkce zajímavé -> stejná výpočetní síla jako TS.
+
+----------------------------------------
+
 - Rok: 2017
 - Zkoušel: Hrubý Martin, Ing., Ph.D.
 - Známka: A

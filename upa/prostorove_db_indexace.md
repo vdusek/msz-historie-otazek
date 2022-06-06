@@ -16,6 +16,13 @@
 
 ----------------------------------------
 
+- Rok: 2020
+- Zkoušel: Bartík Vladimír, Ing., Ph.D.
+- Známka: B
+- Komentář: Indexovanie bodových a plošných útvarov. Rozdiely medzi indexovaním plošných a jednorozmerných útvarov. Popísať KD a Adaptive KD Tree.
+
+----------------------------------------
+
 - Rok: 2019
 - Zkoušel: Kolář Dušan, doc. Dr. Ing.
 - Známka: B

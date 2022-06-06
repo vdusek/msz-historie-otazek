@@ -44,6 +44,20 @@
 
 ----------------------------------------
 
+- Rok: 2020
+- Zkoušel: Rogalewicz Adam, doc. Mgr., Ph.D. , Hrubý Martin, Ing., Ph.D.
+- Známka: A
+- Komentář: Zasobnikove automaty. Zacal jsem jako automat bambardovat formalnimi definicemi: co to je (formalni definice mn. stavu, prechodova f-ce. apod.), jake jazyky akceptuje (bezkontextove), jakeho typu gramatiky generuji teto jazyky (Typ 2), jake typy jsou a co pro ne plati (RZA, DZA apod.). Pam mi poklali otazku "Co se stane kdyz ZA pridame jeste 1 zasobnik?", jsem odpovedel "Jelikoz zasobnik je nekonecny, tak se nic nestane", coz byla chyba protoze se 2 zasobnikama automat ma ekvivalentni vypocetni moc jako Turinguv stroj.
+
+----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Vojnar Tomáš, prof. Ing., Ph.D. , Burget Lukáš, doc. Ing., Ph.D.
+- Známka: A
+- Komentář: Zásobníkové automaty: Burget/Vojnar - Nechal ma hovoriť, tak som písal čo sa dalo, potom chcel nejak obecnejšie vysvetliť ako to flastne celé funguje na to sa prihlásil Vojnar a povedal že to môžem vysvetliť na konkrétnom automate so v stupom (0011), a zrovna aj vysvetliť na ňom či je deterministický. Potom príklad jazyka ktorý je príjímaný deterministickým a nedeterministickým automatom, a ešte taký čo nie je RJ ale je je BKJ. Domotal som čo sa dalo ale vždy ma správne naviedli, takže nakoniec.
+
+----------------------------------------
+
 - Rok: 2019
 - Zkoušel: Meduna Alexander, prof. RNDr., CSc.
 - Známka: B

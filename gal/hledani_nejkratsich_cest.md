@@ -31,6 +31,13 @@
 ----------------------------------------
 
 - Rok: 2020
+- Zkoušel: Čadík Martin, doc. Ing., Ph.D.
+- Známka: C
+- Komentář: Neorientované grafy, popsat co to je, jak se to reprezentuje v PC (matice sousedů či co), tah, cesta, sled, souvislost, Kruskal a Prim. Stačilo neformálně na obrázku, na lepší známku by to chtělo popsat více matematicky, C.
+
+----------------------------------------
+
+- Rok: 2020
 - Zkoušel: Burget Lukáš, doc. Ing., Ph.D.
 - Známka: A
 - Komentář: Dijkstra a F-W - k čemu to je, popsat oba algoritmy jak fungují.

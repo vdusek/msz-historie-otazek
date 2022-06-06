@@ -15,3 +15,10 @@
 - Komentář: Zacal som lahsou otazkou na OO DB - pytal sa na obj. model, strukturu, kolekciu, objekt a vztahy, vsetko som nejak popisal s jeho pomocou, nic zakerne chcel poradit,
 
 ----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Rychlý Marek, RNDr., Ph.D.
+- Známka: C
+- Komentář: Zvolil jsem si XML databáze jako první otázku, jelikož jsem ji uměl více. Chtěl po mně typy dokumentů a pak jsme teda řešili ty datové - způsoby ukládání. Vše jsem odvykládal a zmínil jsem XMLType v SQL a ten chtěl po mně popsat. Tady jsem trochu narazil, v materiálech to nebylo dostatečně popsané. Nakonec jsem řekl, že to je tedy objekt, má nějaké atributy a funkce nad něma, s tím se nakonec smířil.
+
+----------------------------------------

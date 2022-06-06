@@ -10,6 +10,20 @@ Komisia mi taktiež prišla príjemná a ochotná pomôcť.
 
 ----------------------------------------
 
+- Rok: 2020
+- Zkoušel: Jaroš Jiří, doc. Ing., Ph.D.
+- Známka: C
+- Komentář: OpenMP sekce a tasky. Takové obecné povídání na co je to dobré.
+
+----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Mrázek Vojtěch, Ing., Ph.D.
+- Známka: B
+- Komentář: OpenMP - smycky, sekce, tasky.
+
+----------------------------------------
+
 - Rok: 2019
 - Zkoušel: Jaroš Jiří, doc. Ing., Ph.D.
 - Známka: D

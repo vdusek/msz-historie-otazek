@@ -29,3 +29,24 @@
 - Komentář: Lambda kalkul - základ, nič špeciálne/zákerné.
 
 ----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Lengál Ondřej, Ing., Ph.D.
+- Známka: C
+- Komentář: Lambda calcul uplne zaklady. Nejake intro a pak co tvori lamda kalkul a jake jsou redukce. Chtel i eta redukci, na kterou jsem si nevzpomnel. Nic zakerneho, jen to chtel formalne zpravne, coz jsem varil z vody.
+
+----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Křivka Zbyněk, Ing., Ph.D.
+- Známka: D
+- Komentář: Napsal jsem syntax lambda kalkulu, vyjmenoval jednotlive konverze, hodně pomáhal, nadiktoval mne priklady na kterych jsem mohl ukazat jednotlive konverze.
+
+----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Kolář Dušan, doc. Dr. Ing.
+- Známka: C
+- Komentář: Začal jsem otázkou na lambda-kalkul, protože jsem čekal, že bude více na přemýšlení. Kolář po mě chtěl popsat, co to lambda kalkul je, jaké jsou stavební kameny, co je volná a vázaná proměnná, kam se proměnná váže a jaké znám konverze. Všechno jsem řekl vcelku dobře, jenom u eta-konverze jsem se úplně zasekl a nemohl jsem si vzpomenout, jak funguje. Kolář se snažil mě nasměrovat, ale moc jsem ho nechápal, protože jsem prostě nevěděl, jak eta-konverze funguje. Přesto Kolář byl celou dobu velmi milý, sympatický a pozitivně naladěný.
+
+----------------------------------------

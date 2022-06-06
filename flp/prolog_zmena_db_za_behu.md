@@ -30,6 +30,13 @@
 
 ----------------------------------------
 
+- Rok: 2020
+- Zkoušel: Zbořil František, doc. Ing., Ph.D.
+- Známka: D
+- Komentář: Prolog - začal som tým že je to logický jazyk, následne chcel aby som povedal ako vlastne vyzerá, chcel počuť že predikátová logika je podmnožinou prologu. Ďalej chcel vedieť čo sú to hornerove klauzule, termy, atomické termy. Príklad pravidla a faktu. Pomáhal mi takže som to nejak dal dokopy, nakoniec chcel vysvetliť operátor rezu.
+
+----------------------------------------
+
 - Rok: 2013
 - Zkoušel: Bieliková Mária, prof. Ing., PhD.
 - Známka: C

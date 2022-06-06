@@ -44,6 +44,13 @@
 
 ----------------------------------------
 
+- Rok: 2020
+- Zkoušel: Herout Adam, prof. Ing., Ph.D.
+- Známka: A
+- Komentář: Obyčajné grafy: Prekvapivo ma toto skúšal Herout a nie Křivka, za čo som bol rád. Definoval som obyčajný graf, chcel som pokračovať ale zastavil ma a povedal že mám definovať kostru grafu a k tomu budem potrebovať definovať ďalšie veci. Chvíľu som si nevedel spomenúť, tak som začal s definíciou komponenty, ňou som sa dostal k súvislému grafu a k ceste. Furt som si nevedel spomenúť tak som ešte povedal že tetiva je hrana ktorá nie je súčasťou kostry a vtedy mi to docvaklo. Definoval som teda kostru a spýtal sa ma na čo to je, kde sa to využíva. To som nevedel (povedal že to som sa asi neučil ale že mám nad tým porozmýšľať), skúšal som ale nič. Tak sa ma ešte spýtal že či máme nejaké algoritmy ktoré vedia nájsť minimálnu kostru. Začal som Kruskalom, popísal som, k Primovi som sa ani nedostal a už ma pustili.
+
+----------------------------------------
+
 - Rok: 2018
 - Zkoušel: Hrdina Jaroslav, doc. Mgr., Ph.D
 - Známka: A

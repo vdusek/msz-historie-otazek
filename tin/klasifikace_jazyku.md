@@ -44,6 +44,20 @@
 
 ----------------------------------------
 
+- Rok: 2020
+- Zkoušel: Češka Milan, RNDr., Ph.D.
+- Známka: E
+- Komentář: Vlastnosti formálních jazyků - bylo to napsano takto stručně a neuvědomil jsem si, že tam je seznam otázek, takže jsem mluvil docela dlouho k úplné jiné otázce (popsal jsem třídy jazyků, uzávěrové vlastnosti), bylo potřeba ale popsat rozhodnutelnost, tu jsem tedy nakonec popsal na regulárních automatech (konečnost a zda přijímá) a poté na turingovych strojích (membership problem). Byli příjemní a i když to pro mě byly zrovna špatné téma.
+
+----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Rogalewicz Adam, doc. Mgr., Ph.D.
+- Známka: C
+- Komentář: Uzavretosť a rozhodnuteľnosť (vlastnosti jazykov, príklady).
+
+----------------------------------------
+
 - Rok: 2019
 - Zkoušel: Meduna Alexander, prof. RNDr., CSc.
 - Známka: B

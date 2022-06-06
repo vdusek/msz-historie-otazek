@@ -51,6 +51,20 @@
 
 ----------------------------------------
 
+- Rok: 2020
+- Zkoušel: Češka Milan, RNDr., Ph.D.
+- Známka: B
+- Komentář: Na papírku byly body pro problém zastavení a redukci. Začal jsem tím, že máme nějaké decision problems na které je odpověď buďto ano či ne. Pak jsem popsal, co je (ne)rozhodnutelnost a částečná rozhodnutelnost (ČR). Ke každému chtěl příklad - u rozhodnutelného jsem uvedl rozhodnutí, jestli má TS 10+ stavů (simulace přes UTS), on řekl, že je to syntaktický problém a chtěl ještě jiný nesyntaktický příklad. U ČR jsem popsal halting problém (HP), chtěl to vysvětlit lidově, proč teda je ČR. U nerozhodnutelného jsem uvedl Postův systém, po jeho opravení že je to ČR jsem uvedl Co-HP (stroj M NEzastaví na vstup w) a chtěl vysvětlit proč je nerozhodnutelný (Pokud je odpověď ano, tak stroj cyklí, kdyžto u HP při odpovědi ano stroj zastaví (=definice ČR)). Nakonec se ptal na redukci (že lze převést neznámé problémy na známé problémy a tím je řešit). Na konci jsme ještě něco řešili, ale nakonec to nechal být.
+
+----------------------------------------
+
+- Rok: 2020
+- Zkoušel: Rogalewicz Adam, doc. Mgr., Ph.D.
+- Známka: B
+- Komentář: Nerozhodnutelnost - rozhodnutelne, nerozhodnutelné problémy a příklady, problém zastavení. Nerozhodnutelnost jsem si vzal jako první, myslel jsem si, že ji celkem zvládám. Na papírku byly ty 3 pojmy, ale nedokázal jsem je přečíst a tak mi pan Rogalewicz vysvětlil co by chtěl slyšet. Začal jsem tím co je to rozhodovací problém a chtěl to vztáhnout na jazyky a TS, ale byl jsem zastaven a nechal se trochu rozhodit. Chtěl příklady těch problémů. Pak už jsem se nějak ztrácel v tom co chce slyšet, ale snažil se mi pomoct. Celé to proběhlo strašně rychle, moc jsme se nechápali. Myslel jsem ze mu ukazu dukaz diagonalizaci HP, ale vubec to nechtel. Motali jsme se okolo toho, co bych dělal kdybych dostal za úkol naimplementovat nerozhodnutelný problém. Začal jsem do toho tahat univerzální TS a simulace, ale asi to bylo mimo. Nervy zahrály svoje, kór když tam čekáte od rána a pár lidí před vámi vyhodí. Každopádně celé komisi a obvzlášť oběma zkoušejícím patří velká poklona.
+
+----------------------------------------
+
 - Rok: 2019
 - Zkoušel: Češka Milan, prof. RNDr., CSc.
 - Známka: B
