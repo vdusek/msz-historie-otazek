@@ -19,6 +19,6 @@
 - Rok: 2012
 - Zkoušel: Ryšavý Ondřej, Ing. Ph.D.
 - Známka: C
-- Komentář: Zkouseni v pohode, spis me vedl otazkama, chtel znat presne princip Bully a Ring. Algoritmy pro vylouceni pristupu ho moc nezajimaly. Takze otazka v pohode, jedna z tech nejlepsich :)
+- Komentář: Zkouseni v pohode, spis me vedl otazkama, chtel znat presne princip Bully a Ring. Algoritmy pro vylouceni pristupu ho moc nezajimaly. Takze otazka v pohode, jedna z tech nejlepsich :).
 
 ----------------------------------------
